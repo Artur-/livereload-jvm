@@ -76,6 +76,11 @@
 			<artifactId>jetty-websocket</artifactId>
 			<version>8.1.8.v20121106</version>
 		</dependency>
+  <dependency>
+    <groupId>net.incongru.watchservice</groupId>
+    <artifactId>barbary-watchservice</artifactId>
+    <version>1.0</version>
+  </dependency>
 		<dependency>
 			<groupId>com.googlecode.json-simple</groupId>
 			<artifactId>json-simple</artifactId>
